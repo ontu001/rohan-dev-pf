@@ -4,6 +4,7 @@ h1 {
 
 body {
     font-family: 'Kanit', sans-serif;
+    margin: 0;
 }
 
 .orange-color {
@@ -28,4 +29,17 @@ section {
 .half-width {
     width: 45%;
     padding: 80px;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.middle-banner {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding: 100px;
+
 }
