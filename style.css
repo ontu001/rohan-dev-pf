@@ -1,0 +1,31 @@
+h1 {
+    font-size: 45px;
+}
+
+body {
+    font-family: 'Kanit', sans-serif;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.hireme {
+    text-decoration: none;
+    background-image: linear-gradient(orange, rgb(255, 73, 73));
+    padding: 10px 45px;
+    border-radius: 20px;
+    color: aliceblue;
+
+}
+
+section {
+    display: flex;
+    margin-bottom: 10px;
+
+}
+
+.half-width {
+    width: 45%;
+    padding: 80px;
+}
